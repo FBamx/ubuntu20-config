@@ -4,7 +4,7 @@ set shiftwidth=2
 set autoindent
 set cursorline
 
-noremap h j
+noremap h i
 noremap j h
 noremap i k
 noremap k j
